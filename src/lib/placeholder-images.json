@@ -2,33 +2,33 @@
   "placeholderImages": [
     {
       "id": "profilePicture",
-      "description": "A portrait of a person.",
-      "imageUrl": "https://images.unsplash.com/photo-1727834776020-06233f071a2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3J0cmFpdCUyMHBlcnNvbnxlbnwwfHx8fDE3NjI1NTAyNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "portrait person"
+      "description": "A portrait of a cat.",
+      "imageUrl": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXR8ZW58MHx8fHwxNjY2NjY2NjY2&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "portrait cat"
     },
     {
       "id": "project-1",
-      "description": "Abstract representation of a web application.",
-      "imageUrl": "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMHRlY2h8ZW58MHx8fHwxNzYyNTc1NTUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "abstract tech"
+      "description": "A cat looking at a laptop screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1592194991125-92523211e588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXQlMjBsYXB0b3B8ZW58MHx8fHwxNjY2NjY2NjY2&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "cat laptop"
     },
     {
       "id": "project-2",
-      "description": "A laptop showing code on the screen.",
-      "imageUrl": "https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsYXB0b3AlMjBjb2RlfGVufDB8fHx8MTc2MjUwMjA5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "laptop code"
+      "description": "A cat sitting on a desk with a laptop.",
+      "imageUrl": "https://images.unsplash.com/photo-1574231164645-d6f0e8573528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXQlMjBsYXB0b3B8ZW58MHx8fHwxNjY2NjY2NjY2&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "cat desk"
     },
     {
       "id": "project-3",
-      "description": "A design mockup on a tablet.",
-      "imageUrl": "https://images.unsplash.com/photo-1728566849567-c68e8530c254?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkZXNpZ24lMjBtb2NrdXB8ZW58MHx8fHwxNzYyNTg1NjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "design mockup"
+      "description": "A cat looking at a design mockup on a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1569591159332-65b539f379d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXQlMjB0YWJsZXR8ZW58MHx8fHwxNjY2NjY2NjY2&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "cat tablet"
     },
     {
       "id": "project-4",
-      "description": "A mobile application interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1601972602237-8c79241e468b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb2JpbGUlMjBhcHB8ZW58MHx8fHwxNzYyNTczMTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "mobile app"
+      "description": "A cat looking at a mobile phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1615789591457-74a63395c990?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNDE5ODJ8MHwxfHNlYXJjaHwxfHxjYXQlMjBwaG9uZXxlbnwwfHx8fDE2NjY2NjY2NjY&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "cat phone"
     }
   ]
 }
